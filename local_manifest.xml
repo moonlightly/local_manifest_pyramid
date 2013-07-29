@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+<remote name="github"
+        fetch="https://github.com"
+        />
+
+  <project name="shantur/android_device_htc_pyramid-2" path="device/htc/pyramid" revision="aosp_4.3" remote="github" />
+  <project name="shantur/android_device_htc_msm8660-common-1" path="device/htc/msm8660-common" revision="aosp_4.3" remote="github"/>
+
+
+</manifest>
